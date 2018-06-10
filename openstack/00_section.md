@@ -1,9 +1,7 @@
 !SLIDE[bg=_images/backgrounds/black_bg.png]
-# IBM Code Presentation
-.blockwhite Introduction to Kubernetes and Istio
+.blockwhite OpenStack and the Four Opens
 
-.blockteal Spencer Krum
+.blockteal Andrea Frittoli
 
 
 ![This is a really fancy image](../_images/ibm_code_big.png)
-
