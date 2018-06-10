@@ -1,14 +1,20 @@
 {
-  "name": "My Preso",
+  "name": "OpenStack and the Four Opens",
   "sections": [
     {
-      "section": "introduction"
+      "section": "openstack"
     },
     {
-      "section": "hello"
+      "section": "source"
     },
     {
-      "section": "world"
+      "section": "design"
+    },
+    {
+      "section": "development"
+    },
+    {
+      "section": "community"
     },
     {
       "section": "conclusion"
