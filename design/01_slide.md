@@ -1,17 +1,15 @@
-!SLIDE[bg=_images/backgrounds/white_bg.png]
-# Hey Check out Code
+!SLIDE[bg=_images/backgrounds/black_bg.png]
 
-    @@@ shell
-        #!/bin/bash
-        echo hello world
+.huge <span class="teal">Open</span> <span class="white">Design</span>
+<hr>
 
+* How can I influence and contribute to it
 
-!SLIDE[bg=_images/backgrounds/white_bg.png]
-# Hey Check out Console output
+* Contributor focus events
+* Be inclusive and ready to change
 
+* Scope creep
 
-    @@@ Console
-        root@localhost # echo "sup nerds"
-        sup nerds
+~~~SECTION:notes~~~
 
-
+~~~ENDSECTION~~~

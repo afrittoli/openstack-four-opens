@@ -1,10 +1,3 @@
-<!SLIDE bullets incremental>
-# Bullet Points
+!SLIDE[bg=_images/backgrounds/white_bg.png]
 
-* first point
-* second point
-* third point
-
-
-
-
+TBD Picture from a PTG room
