@@ -1,5 +1,15 @@
 !SLIDE[bg=_images/backgrounds/black_bg.png]
 
-.blockwhite This is your last chance. After this, there is no turning back. You take the blue pill - the story ends, you wake up in your bed and believe whatever you want to believe.
+.quotation The OpenStack Way
 
-.blockteal You take the red pill - you stay in Wonderland and I show you how deep the rabbit-hole goes
+TBD: OpenStack Logo here
+
+~~~SECTION:notes~~~
+One (set of) cornerstone(s): the four opens and the later formalised
+openstack principles.
+
+https://governance.openstack.org/tc/reference/opens.html
+
+https://governance.openstack.org/tc/reference/principles.html
+
+~~~ENDSECTION~~~

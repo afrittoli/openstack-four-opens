@@ -46,6 +46,13 @@
   max-width: 30% !important;
 }
 
+.quotation {
+  font-size: 105px;
+  color: #5dc6ca;
+  margin-top: 20% !important;
+  margin-bottom: 20% !important;
+}
+
 .narrow {
   width: 60%;
 }
@@ -77,9 +84,14 @@
 }
 
 .content li {
-  font-size: 50px;
+  margin: 1em;
+  font-size: 72px;
 }
 
 .content code {
   font-size: 50px;
+}
+
+.content ul {
+  list-style:none;
 }
