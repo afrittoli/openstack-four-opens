@@ -14,8 +14,36 @@
   color: #5dc6ca;
 }
 
+.white {
+  color: #ffffff;
+}
+
 .huge {
   font-size: 105px;
+  margin-left: 5% !important;
+  margin-bottom: 0 !important;
+}
+
+.title {
+  font-size: 105px;
+  margin-left: 5% !important;
+  margin-bottom: 20% !important;
+}
+
+.name {
+  font-size: 70px;
+  margin-left: 5% !important;
+  margin-bottom: 0 !important;
+}
+
+.wherewhen {
+  font-size: 50px;
+  margin-left: 5% !important;
+  margin-top: 0 !important;
+}
+
+.openstacklogo {
+  max-width: 30% !important;
 }
 
 .narrow {

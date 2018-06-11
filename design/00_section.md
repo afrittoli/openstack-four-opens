@@ -1,9 +1,3 @@
-!SLIDE[bg=_images/backgrounds/white_bg.png]
+!SLIDE[bg=_images/backgrounds/black_bg.png]
 
-
-
-#
-
-## 
-
-.huge Add a <span class="teal">thought provoking</span> question or statement, and highlight <span class="teal">key words.</span>
+.huge <span class="teal">Open</span> <span class="white">Design</span>
