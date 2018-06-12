@@ -1,7 +1,7 @@
 reset
 set term png truecolor
 set output "../_images/commits.png"
-set xlabel "Commits over the years"
+set xlabel "Commits/year - Top Value 85k+ - Source stackalytics.com"
 set style fill transparent solid 0.5 noborder
 unset border
 unset ytics

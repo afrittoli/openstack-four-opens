@@ -8,6 +8,12 @@
 * 2012: OpenStack Foundation
 * 2014: "The big tent"
 
+<br/>
+
+* TBD Size of the community
+* TBD Number of projects
+* TBD Number of repos
+
 ![.underlay commits](../_images/commits.png)
 
 
