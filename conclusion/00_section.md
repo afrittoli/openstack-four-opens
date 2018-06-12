@@ -1,4 +1,4 @@
-<!SLIDE center subsection>
+!SLIDE[bg=_images/backgrounds/white_bg.png]
 
 * It costs effort
 * There are drawbacks
