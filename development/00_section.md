@@ -1,6 +1,6 @@
 !SLIDE[bg=_images/backgrounds/white_bg.png]
 
-.huge <span class="teal">Open</span> Development
+.huge Open <span class="teal">Development</span>
 
 TBD
 * Open review

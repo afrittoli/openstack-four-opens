@@ -84,7 +84,9 @@
 }
 
 .content li {
-  margin: 1em;
+  margin-left: 1em;
+  margin-top: 0;
+  margin-bottom: 0;
   font-size: 72px;
 }
 

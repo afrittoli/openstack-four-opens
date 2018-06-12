@@ -1,10 +1,15 @@
-!SLIDE[bg=_images/backgrounds/black_bg.png]
+!SLIDE[bg=_images/backgrounds/white_bg.png]
 
-.quotation The OpenStack Way
+.huge <span class="teal">The OpenStack Way</span>
+<hr>
 
-TBD: OpenStack Logo here
+* Open Source
+* Open Design
+* Open Development
+* Open Community
 
 ~~~SECTION:notes~~~
+
 One (set of) cornerstone(s): the four opens and the later formalised
 openstack principles.
 
