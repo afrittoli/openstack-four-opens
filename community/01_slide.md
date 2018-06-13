@@ -5,6 +5,7 @@
 <span class="white">
 
 * Communication
+&nbsp;
 
 * Avoid off-the-record
 * Respectful and inclusive
@@ -15,6 +16,5 @@
 
 ~~~SECTION:notes~~~
 
-https://governance.openstack.org
 
 ~~~ENDSECTION~~~

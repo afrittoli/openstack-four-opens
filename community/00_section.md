@@ -5,6 +5,7 @@
 <span class="white">
 
 * Governance
+&nbsp;
 
 * Official projects
 * Technical Committee
