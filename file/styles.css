@@ -1,0 +1,117 @@
+.blockwhite {
+  color: white;
+  font-size: 72px;
+  width: 70%;
+}
+
+.blockteal {
+  color: #5dc6ca;
+  font-size: 72px;
+  width: 70%;
+}
+
+.teal {
+  color: #5dc6ca;
+}
+
+.white {
+  color: #ffffff;
+}
+
+.huge {
+  font-size: 105px;
+  margin-left: 5% !important;
+  margin-bottom: 0 !important;
+  margin-top: 1em !important;
+}
+
+.small {
+  font-size: 60px !important;
+}
+
+.smallwhite {
+  font-size: 60px !important;
+  color: #ffffff;
+}
+
+.title {
+  font-size: 105px;
+  margin-left: 5% !important;
+  margin-bottom: 20% !important;
+  margin-top: 1em !important;
+}
+
+.name {
+  font-size: 70px;
+  margin-left: 5% !important;
+  margin-bottom: 0 !important;
+  margin-top: 1em !important;
+}
+
+.wherewhen {
+  font-size: 50px;
+  margin-left: 5% !important;
+  margin-top: 0 !important;
+}
+
+.openstacklogo {
+  max-width: 30% !important;
+  margin-top: 1em !important;
+}
+
+.quotation {
+  font-size: 105px;
+  color: #5dc6ca;
+  margin-top: 20% !important;
+  margin-bottom: 20% !important;
+}
+
+.narrow {
+  width: 60%;
+}
+
+#preso,
+.slide {
+  height: 1080px !important;
+  width: 1920px !important;
+}
+
+
+@font-face {
+    font-family: 'IBM Plex Sans';
+    src: URL('_files/share/fonts/IBM-Plex-Sans/IBMPlexSans-Regular.ttf') format ('ttf');
+}
+
+@font-face {
+    font-family: 'IBM Plex Sans Bold';
+    src: URL('_files/share/fonts/IBM-Plex-Sans/IBMPlexSans-Bold.ttf') format ('ttf');
+}
+
+.content {
+  font-family: 'IBM Plex Sans';
+}
+
+.content h1 {
+  font-family: 'IBM Plex Sans';
+  font-size: 72px;
+}
+
+.content li {
+  margin-left: 1em;
+  margin-top: 1em !important;
+  margin-bottom: 1em !important;
+  font-size: 72px;
+}
+
+.content p {
+  margin-top: inherit;
+  margin-bottom: inherit;
+}
+
+.content code {
+  font-size: 50px;
+}
+
+.content ul {
+  list-style:none;
+}
