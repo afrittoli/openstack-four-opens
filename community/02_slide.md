@@ -4,11 +4,10 @@
 <hr>
 <span class="white">
 
-* Community
+* People
 &nbsp;
 
 * Developers, users, operators
-* People
 * Trust
 * Mentorship, grow future leaders
 
