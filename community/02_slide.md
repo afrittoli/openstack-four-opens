@@ -1,21 +1,7 @@
-!SLIDE[bg=_images/backgrounds/black_bg.png]
-
-.huge <span class="white">Open</span> <span class="teal">Community</span>
-<hr>
-<span class="white">
-
-* People
-&nbsp;
-
-* Developers, users, operators
-* Trust
-* Mentorship, grow future leaders
-
-</span>
+!SLIDE[bg=_images/community.jpg]
 
 
 ~~~SECTION:notes~~~
-The community is made of developers, users, operators, so people.
-In the OpenStack community we believe in relationships based on trust.
+Developers, users, operators, vendors all meet at the marketplace.
 
 ~~~ENDSECTION~~~
