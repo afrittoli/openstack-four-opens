@@ -8,8 +8,8 @@
 
 <br/>
 
-* Contributor focus events
-* Be inclusive and ready to change
+* Contributor focused events
+* IRC meetings and office hours
 </span>
 
 ~~~SECTION:notes~~~

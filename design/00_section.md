@@ -28,6 +28,6 @@ impact in terms of upgrade, new features, changes to APIs, bug fixes.
 At the OpenStack summit we have "project updates" presentations, which
 highlight what's new in the coming release and give an overlook about what
 may be coming in future releases. Those presentations are recorded and
-available on youtube (which is not opensource).
+available on youtube (which is not open source).
 
 ~~~ENDSECTION~~~

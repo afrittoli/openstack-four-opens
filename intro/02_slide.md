@@ -11,7 +11,7 @@
 ~~~SECTION:notes~~~
 
 One (set of) cornerstone(s): the four opens and the later formalised
-openstack principles.
+OpenStack principles.
 
 https://governance.openstack.org/tc/reference/opens.html
 
