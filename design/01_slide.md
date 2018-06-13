@@ -25,5 +25,6 @@ meet-ups when face to face meeting is not an option.
 
 - Code of conduct
 - Interactive and inclusive sessions
+- Etherpad
 
 ~~~ENDSECTION~~~

@@ -1,6 +1,7 @@
 !SLIDE[bg=_images/backgrounds/white_bg.png]
 
 .huge Open <span class="teal">Development</span>
+<hr/>
 
 * Development and CI aligned
 * Footprint of the development environment

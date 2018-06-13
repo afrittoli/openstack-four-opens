@@ -1,3 +1,7 @@
-!SLIDE[bg=_images/backgrounds/white_bg.png]
+!SLIDE[bg=_images/design_session.jpg]
 
-TBD Picture from a PTG room
+~~~SECTION:notes~~~
+Design session. Everyone sits close together, usually no microphone,
+collaborative discussion and note using etherpad.
+
+~~~ENDSECTION~~~

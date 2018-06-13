@@ -1,3 +1,5 @@
-!SLIDE[bg=_images/backgrounds/white_bg.png]
+!SLIDE[bg=_images/zuul_dashboad.png]
 
-TBD Picture of Zuul status page gerrit review or something
+~~~SECTION:notes~~~
+A screenshoot from Zuul's dashboard.
+~~~ENDSECTION~~~

@@ -1,9 +1,10 @@
 !SLIDE[bg=_images/backgrounds/white_bg.png]
 
 .huge Open <span class="teal">Development</span>
+<hr/>
 
 * Code review in Gerrit
-* Share tools, services and their configuration as code
+* Shared tools, services and their configuration as code
 * QA, CI, Docs, I18n, Oslo, Release
 
 ~~~SECTION:notes~~~

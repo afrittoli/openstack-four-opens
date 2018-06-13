@@ -10,10 +10,6 @@
 
 <br/>
 
-* TBD Size of the community
-* TBD Number of projects
-* TBD Number of repos
-
 ![.underlay commits](../_images/commits.png)
 
 
@@ -21,6 +17,13 @@
 The community evolved over the years, in size, in governance.
 https://docs.openstack.org/project-team-guide/introduction.html
 
-Something remained the same.
+The OpenStack foundation was created to provide shared resources to projects,
+promote openstack projects and the community around them.
+
+The definition of what an OpenStack project is eveolved over time as well.
+With the big tent, a project must follow the principles
+
+* Hundreds of repositories
+* Millions of lines of code
 
 ~~~ENDSECTION~~~

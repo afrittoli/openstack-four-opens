@@ -1,3 +1,7 @@
-!SLIDE[bg=_images/backgrounds/white_bg.png]
+!SLIDE[bg=_images/community.jpg]
 
-TBD Picture of a team (e.g. Nova)
+
+~~~SECTION:notes~~~
+Developers, users, operators, vendors all meet at the marketplace.
+
+~~~ENDSECTION~~~

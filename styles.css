@@ -22,18 +22,30 @@
   font-size: 105px;
   margin-left: 5% !important;
   margin-bottom: 0 !important;
+  margin-top: 1em !important;
+}
+
+.small {
+  font-size: 60px !important;
+}
+
+.smallwhite {
+  font-size: 60px !important;
+  color: #ffffff;
 }
 
 .title {
   font-size: 105px;
   margin-left: 5% !important;
   margin-bottom: 20% !important;
+  margin-top: 1em !important;
 }
 
 .name {
   font-size: 70px;
   margin-left: 5% !important;
   margin-bottom: 0 !important;
+  margin-top: 1em !important;
 }
 
 .wherewhen {
@@ -44,6 +56,7 @@
 
 .openstacklogo {
   max-width: 30% !important;
+  margin-top: 1em !important;
 }
 
 .quotation {
@@ -85,9 +98,14 @@
 
 .content li {
   margin-left: 1em;
-  margin-top: 0;
-  margin-bottom: 0;
+  margin-top: 0 !important;
+  margin-bottom: 0 !important;
   font-size: 72px;
+}
+
+.content p {
+  margin-top: inherit;
+  margin-bottom: inherit;
 }
 
 .content code {

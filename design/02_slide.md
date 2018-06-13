@@ -8,16 +8,19 @@
 <br/>
 
 * Scope creep
+* Converges with maturity
 
 </span>
 ~~~SECTION:notes~~~
-Having an open design approach has a drawback.
+Having an open design approach has drawbacks.
 Anyone can contribute to the design, bring its own uses cases to the table.
-This means it's harder to say no to features, which means you may end up
+This means it's harder to say no to features, which in turn means you may end up
 with more but less integrated / tested features.
 
 The spec freeze limits the time window during which new features may be
 proposed, but that too has the downside of forcing a 6months+ delay to features
 that miss the window.
+
+
 
 ~~~ENDSECTION~~~

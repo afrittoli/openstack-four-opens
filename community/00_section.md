@@ -1,11 +1,12 @@
 !SLIDE[bg=_images/backgrounds/black_bg.png]
 
 .huge <span class="white">Open</span> <span class="teal">Community</span>
-
+<hr>
 <span class="white">
 
 * Community: developers, users, operators
 * Decision: lazy consensus
+<br/>
 
 * Leaders elected by the community
 * Leaders serve the community
@@ -26,7 +27,6 @@
 
 * Based on Trust
   * Trust and scale
-
 </span>
 
 

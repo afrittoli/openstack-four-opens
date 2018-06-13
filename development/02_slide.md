@@ -1,6 +1,7 @@
 !SLIDE[bg=_images/backgrounds/white_bg.png]
 
 .huge Open <span class="teal">Development</span>
+<hr/>
 
 * Community Lead QA
 * Minimum QA requirement
