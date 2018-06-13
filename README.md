@@ -17,7 +17,7 @@ Or you can use the executable [docker image](https://github.com/nibalizer/docker
 Static Version
 --------------
 
-(TBD) A static version of this presentation will be available at: https://afrittoli.github.io/openstack-four-opens
+A static version of this presentation will be available at: https://afrittoli.github.io/openstack-four-opens
 
 
 Contributing Back

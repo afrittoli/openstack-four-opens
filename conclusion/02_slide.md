@@ -6,8 +6,6 @@
 * &nbsp;  
 * &nbsp;  
 * &nbsp;  
-* &nbsp;  
-
 
 * <span class="smallwhite">Freenode: andreaf</span>
 * <span class="smallwhite">Twitter: blackchip76</span>
